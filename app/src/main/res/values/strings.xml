@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Books Review</string>
+    <string name="register">Register</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_username">Enter username</string>
+    <string name="welcome_to_book_review">Welcome to book Review</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log IN</string>
+    <string name="enter_username_2">Enter username</string>
+    <string name="welcome_to_book_review_1">Welcome to book Review</string>
+    <string name="enter_password_1">Enter password</string>
+    <string name="if_you_are_not_registered_already_kindly_signup">if you are not registered already kindly signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="and_the_mountains_echoed">And the mountains echoed</string>
+</resources>
